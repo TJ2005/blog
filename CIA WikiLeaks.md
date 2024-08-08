@@ -7,8 +7,9 @@ tags:
 Date: 2024.08.02
 Time: 20:57
 ---
-	Leave at 702
 # CIA WikiLeaks
+#### Author
+Tejas Kamal Sahoo
 
 # Main note
 
